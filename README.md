@@ -1,4 +1,4 @@
-# 🅿️ Smart Parking Management System
+# Smart Parking Management System
 
 An intelligent parking management system powered by machine learning to optimize space usage, reduce traffic congestion, and provide real-time parking availability. This project uses computer vision techniques and a trained ML model to detect and classify parking slots as "Occupied" or "Available" from camera images or video streams.
 
